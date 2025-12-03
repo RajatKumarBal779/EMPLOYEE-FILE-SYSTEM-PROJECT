@@ -28,14 +28,22 @@ The system uses Python file handling, custom exception handling, and modular pro
 - Gracefully ends the program.
 ***
 ## 🗂️ Project Structure
-Employeeadd.py         # Add new employee
-Employeedelete.py      # Delete employee record
-Employeeupdate.py      # Update salary and company name
-Employeeview.py        # View one or all employees
-Employeesearch.py      # Search employee by ID
-Empmenu.py             # Displays the main menu
-Employeemainproject.py # Main driver program
-empdetails.data        # Binary file storing employee records
+1. Employeeadd.py
+- Add new employee
+2. Employeedelete.py
+- Delete employee record
+3. Employeeupdate.py
+- Update salary and company name
+4. Employeeview.py
+- View one or all employees
+5. Employeesearch.py
+- Search employee by ID
+6. Empmenu.py
+- Displays the main menu
+7. Employeemainproject.py
+- Main driver program
+8. empdetails.data
+- Binary file storing employee records
 ***
 ## 🧠 Concepts Used
 ## 📁 File Handling
