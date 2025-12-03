@@ -2,12 +2,12 @@
 A simple file-system–based Employee Management System built using Python. This project demonstrates how to store, retrieve, update, and manage employee records using binary files with the pickle module. The program provides a clean menu-driven interface to perform all CRUD operations.
 ***
 ## 📌 About the Project
-This project is designed as a console-based application to manage employee records such as:
-- Employee Number (Unique ID)
-- Employee Name
-- Salary
-- Company Name
 The system uses Python file handling, custom exception handling, and modular programming. All data is securely stored in a binary file named empdetails.data.
+- This project is designed as a console-based application to manage employee records such as:
+  - Employee Number (Unique ID)
+  - Employee Name
+  - Salary
+  - Company Name
 ***
 ## 🔧 Features
 - Add New Employee
