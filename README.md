@@ -10,22 +10,22 @@ Company Name
 The system uses Python file handling, custom exception handling, and modular programming. All data is securely stored in a binary file named empdetails.data.
 ***
 ## 🔧 Features
-✅ 1. Add New Employee
-Stores employee details as a list.
-Uses custom name validation and exception handling.
-Prevents duplicate Employee Numbers.
-✅ 2. Delete Employee
-Searches for an employee and removes the record from the file.
-✅ 3. Update Employee
-Allows updating salary and company name for a specific employee.
-✅ 4. View Employee Details
-Displays detailed information for a single employee.
-✅ 5. View All Employees
-Displays all employee records in a tabular format.
-✅ 6. Search Employee
-Searches employees by Employee Number and validates if they exist.
-✅ 7. Exit
-Gracefully ends the program.
+1. Add New Employee
+- Stores employee details as a list.
+- Uses custom name validation and exception handling.
+- Prevents duplicate Employee Numbers.
+2. Delete Employee
+- Searches for an employee and removes the record from the file.
+3. Update Employee
+- Allows updating salary and company name for a specific employee.
+4. View Employee Details
+- Displays detailed information for a single employee.
+5. View All Employees
+- Displays all employee records in a tabular format.
+6. Search Employee
+- Searches employees by Employee Number and validates if they exist.
+7. Exit
+- Gracefully ends the program.
 ***
 ## 🗂️ Project Structure
 Employeeadd.py         # Add new employee
@@ -82,5 +82,9 @@ Suggestions and improvements are always welcome!
 ***
 ## 📄 License
 This project is open-source and free to use.
+***
+## 📬 Contact
+For questions, suggestions, or collaboration, feel free to reach out:
+- [LinkedIn – Rajat Kumar Bal](https://www.linkedin.com/in/rajat-kumar-bal)
 ***
 Happy Coding! 🚀
